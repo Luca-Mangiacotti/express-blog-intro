@@ -16,5 +16,8 @@
     "url": "https://github.com/Luca-Mangiacotti/express-blog-intro/issues"
   },
   "homepage": "https://github.com/Luca-Mangiacotti/express-blog-intro#readme",
-  "description": "blog creato con express"
+  "description": "blog creato con express",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
